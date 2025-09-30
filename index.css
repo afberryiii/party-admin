@@ -53,3 +53,13 @@ form {
 label {
   display: grid;
 }
+
+form {
+  display: grid;
+  gap: 1ch;
+  padding: 1rem;
+}
+
+label {
+  display: grid;
+}
